@@ -1,5 +1,5 @@
 <?php  
-
+	// Comentario
 	function desactivar($contador, $res){
 
 		for ($i=0; $i < count($res); $i++) { 
